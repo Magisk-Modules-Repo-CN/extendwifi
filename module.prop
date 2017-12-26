@@ -5,4 +5,4 @@ versionCode=10
 author=Thomasvt
 description=Extend WiFi channels by replacing wifi-service.jar
 support=https://thomasvt.xyz/
-template=1500
+minMagisk=1500
