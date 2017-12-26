@@ -1,8 +1,8 @@
 id=extendwifi
 name=OP5 Extend WiFi channels
-version=v7
-versionCode=7
+version=Oxygen5.0
+versionCode=10
 author=Thomasvt
-description=Extend WiFi channels by overriding the values in build.prop file and replacing wifi-service.jar
+description=Extend WiFi channels by replacing wifi-service.jar
 support=https://thomasvt.xyz/
-template=1400
+template=1500
