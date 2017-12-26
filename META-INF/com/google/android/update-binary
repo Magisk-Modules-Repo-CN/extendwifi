@@ -63,9 +63,9 @@ api_level_arch_detect
 # Useful if you are creating Android version / platform dependent mods
 
 if [ $API != 26 ]; then
-	ui_print "! Wrong Android version ($API)"
-    ui_print "! Please update to OxygenOS 5.0"
-	exit 1
+  ui_print "! Wrong Android version ($API)"
+  ui_print "! Please update to OxygenOS 5.0"
+  exit 1
 fi
 
 # Setup busybox and binaries
