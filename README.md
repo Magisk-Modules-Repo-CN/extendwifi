@@ -1,5 +1,5 @@
 ## Extend your phone's WiFi capability's
-This mod changes your WiFi region to Europe so restrictions are less tight.  
+This mod changes your WiFi region to USA so restrictions are less tight.  
 
 ## Built for OnePlus 5
 This module is built for OnePlus 5 I don't guarantee it to work on other phones, altough it may work. You never know.
