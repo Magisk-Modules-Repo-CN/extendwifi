@@ -1,8 +1,8 @@
 id=extendwifi
-name=OP5 Extend WiFi channels
-version=Oxygen5.0
-versionCode=10
+name=Extend WiFi channels
+version=11
+versionCode=11
 author=Thomasvt
-description=Extend WiFi channels by replacing wifi-service.jar
+description=Extend WiFi channels by setting gsm.operator.iso-country
 support=https://thomasvt.xyz/
 minMagisk=1500
