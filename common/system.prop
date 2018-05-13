@@ -2,3 +2,4 @@
 # Example: Change dpi
 # ro.sf.lcd_density=320
 gsm.operator.iso-country = us
+gsm.sim.operator.iso-country = us
