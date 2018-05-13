@@ -1,7 +1,7 @@
 id=extendwifi
 name=Extend WiFi channels
-version=11
-versionCode=11
+version=12
+versionCode=12
 author=Thomasvt
 description=Extend WiFi channels by setting gsm.operator.iso-country
 support=https://thomasvt.xyz/
